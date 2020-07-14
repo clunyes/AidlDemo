@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">莱斯特</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="task_array">
+        <item>序章(9年前,北扬克顿事件)</item>
+        <item>富兰克林与拉玛</item>
+        <item>侦查珠宝店</item>
+        <item>其父其子</item>
+        <item>婚姻咨询</item>
+        <item>崔佛你好</item>
+        <item>麦克外星人</item>
+        <item>小福别墅</item>
+        <item>ohmygod</item>
+        <item>好麦坞</item>
+    </string-array>
+</resources>
